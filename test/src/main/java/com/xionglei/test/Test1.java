@@ -13,7 +13,7 @@ public class Test1 {
 	private static final Logger logger = LoggerFactory.getLogger(Test1.class);
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		logger.info("hellodfgdfgd");
+		logger.info("hellodfgdfgd电饭锅电饭锅电饭锅的");
 	}
 
 }
